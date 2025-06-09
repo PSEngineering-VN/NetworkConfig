@@ -1,1 +1,5 @@
-# YAML config placeholder
+username: svcnetbrain
+password: zcdbs5LSC775104106
+secret: R0ckEnabl3  # Used to enter enable mode
+device_type: cisco_ios
+timeout: 10
